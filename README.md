@@ -55,9 +55,9 @@ places 파일이 4개로 늘어나는 것 뿐이었다. 그래서 그렇게 하�
  
  
 ### 완성본 스크린샷
-![스크린샷 1](.app/assets/images/screen_shot1.png)
+![스크린샷 1](./app/assets/images/screen_shot1.png)
 <br>
-![스크린샷 2](.app/assets/images/screen_shot2.png)
+![스크린샷 2](./app/assets/images/screen_shot2.png)
 <br>
-![스크린샷 3](.app/assets/images/screen_shot3.png)
+![스크린샷 3](./app/assets/images/screen_shot3.png)
 
